@@ -24,6 +24,7 @@ The report includes data cleaning, segmentation by country, region, and market, 
 
 6. *Video Explanation*:
    - Provided a video walkthrough explaining the visualizations and insights derived from the sales data.
+   - video link - https://drive.google.com/file/d/14TvY2iELpbTxefEd6O0mVF71aHzvvyw7/view?usp=drivesdk
 
 ### Usage:
 
